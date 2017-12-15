@@ -1,0 +1,10 @@
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\obj\Debug\V4-Jehlicka-Matej-4.csprojResolveAssemblyReference.cache
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\obj\Debug\V4_Jehlicka_Matej_4.Form1.resources
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\obj\Debug\V4_Jehlicka_Matej_4.Properties.Resources.resources
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\obj\Debug\V4-Jehlicka-Matej-4.csproj.GenerateResource.Cache
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\obj\Debug\V4-Jehlicka-Matej-4.csproj.CoreCompileInputs.cache
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\bin\Debug\V4-Jehlicka-Matej-4.exe.config
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\bin\Debug\V4-Jehlicka-Matej-4.exe
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\bin\Debug\V4-Jehlicka-Matej-4.pdb
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\obj\Debug\V4-Jehlicka-Matej-4.exe
+C:\Users\jehli34601\Desktop\V4-Jehlicka-Matej-4\V4-Jehlicka-Matej-4\obj\Debug\V4-Jehlicka-Matej-4.pdb
